@@ -1,6 +1,6 @@
 # Online Sales Data Analysis
 
-You can interact with the web app [here](http://online-sales-analysis.herokuapp.com/).
+
 
 Online sales is a critical revenue stream for many businesses, and because of its digital nature, each transaction can be recorded and used to infer insights about a business and its products, processes, and customers.
 
